@@ -17,13 +17,16 @@ End the program
 #Program to find the solution for the given linear equations.
 #Developed by:N.bharath 
 #RegisterNumber:23003413
+```
 import numpy as np
 A=[[1,3],[2,5]]
 B=[5,-3]
 C=np.linalg.solve(A,B)
 print(C)
+```
 ## Output:
-![output](/output.png)
+![output](https://github.com/BHARATHNATRAJAN/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147473529/ca9b4862-efde-4de7-8fc4-3be8de1f86bd)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
